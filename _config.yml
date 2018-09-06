@@ -4,16 +4,16 @@
 
 # Site
 title: Eliden的个人博客
-subtitle:
-description:
-keywords:
+subtitle: 不停地奔赴，寻找最初的梦想，才会不枉此生。
+description: Eliden的个人博客
+keywords: Eliden的个人博客
 author: Eliden
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://eliden-geek.github.io.git
+url: https://eliden-geek.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
