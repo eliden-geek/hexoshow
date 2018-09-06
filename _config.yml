@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Eliden的小窝
+title: Eliden的个人博客
 subtitle:
 description:
 keywords:
@@ -78,6 +78,4 @@ theme: random
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/eliden-geek/eliden-geek.github.io.git
-  branch: master
+  type:
